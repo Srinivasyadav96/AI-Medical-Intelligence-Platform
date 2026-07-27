@@ -195,31 +195,32 @@ Returns prediction history in JSON format.
 
 ## Home Page
 
-(Add Screenshot)
-<img width="1920" height="1080" alt="ress" src="https://github.com/user-attachments/assets/161f4a1d-1764-42cb-961f-4408c7267d10" />
+<img width="1920" height="1080" alt="homepage_screenshot" src="https://github.com/user-attachments/assets/09cb0281-4573-4df4-ab72-a765b8a31dcc" />
+
+
+
 
 
 ---
 
 ## Prediction Result
+{picture_1}
+<img width="1920" height="1080" alt="prediction_result_screenshot1" src="https://github.com/user-attachments/assets/a0c5c618-ceee-40d6-b60b-84f7d5689fdb" />
 
-(Add Screenshot)
+{picture_2}
+<img width="1920" height="1080" alt="result_screenshot_2" src="https://github.com/user-attachments/assets/8adefe27-08f5-46db-8128-8a88087ff542" />
 
----
-
-## Grad-CAM Output
-
-(Add Screenshot)
 
 ---
 
 ## Prediction History
 
-(Add Screenshot)
+<img width="1920" height="1080" alt="history_screenshot" src="https://github.com/user-attachments/assets/28ce3cf6-8939-46a1-abec-d7133b125474" />
+
 
 ---
 
-# ⚙ Installation
+#  Installation
 
 Clone the repository
 
@@ -273,7 +274,7 @@ python manage.py runserver
 
 ---
 
-# 📦 Requirements
+#  Requirements
 
 Install all dependencies
 
@@ -283,7 +284,7 @@ pip install -r requirements.txt
 
 ---
 
-# 🚀 Deployment
+#  Deployment
 
 Deployment configuration was prepared using:
 
@@ -308,9 +309,9 @@ Live deployment is not included in this submission.
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
-**Madda Srinivas**
+**M. Srinivas**
 
 GitHub:
 
@@ -318,13 +319,13 @@ https://github.com/Srinivasyadav96
 
 ---
 
-# 📜 License
+#  License
 
 This project was developed as part of the AI/ML Engineer Technical Assessment and is intended for educational and evaluation purposes.
 
 ---
 
-## ⭐ Acknowledgement
+##  Acknowledgement
 
 This project was developed to demonstrate practical knowledge of:
 
