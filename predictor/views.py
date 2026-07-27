@@ -1,6 +1,6 @@
 from django.shortcuts import render
-from .ai_model import model
-
+# from .ai_model import model
+from .ai_model import get_model
 from PIL import Image
 import numpy as np
 from .models import Prediction
@@ -30,6 +30,7 @@ def home(request):
         img = np.expand_dims(img, axis=0)
 
         result = model.predict(img)
+        model = get_model()
 
         probability = float(result[0][0])
 
